@@ -1,0 +1,667 @@
+index,Tournament,Date,Series,Court,Surface,Round,Best of,Player_1,Player_2,Winner,Rank_1,Rank_2,Score,Sets_Played,Tie_Breaks
+59060,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Moutet C.,Wu Y.,Moutet C.,62,114,6-4 5-7 6-2 4-6 7-5 ,5,0
+59061,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Rinderknech A.,Watanuki Y.,Watanuki Y.,59,138,3-6 3-6 2-6   ,3,0
+59062,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Van De Zandschulp B.,Ivashka I.,Van De Zandschulp B.,34,73,6-3 3-6 7-5 6-3  ,4,0
+59063,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Barrere G.,Etcheverry T.,Etcheverry T.,83,79,6-3 3-6 4-6 4-6  ,4,0
+59064,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Sinner J.,Edmund K.,Sinner J.,16,581,6-4 6-0 6-2   ,3,0
+59065,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Pella G.,Cerundolo F.,Cerundolo F.,181,29,4-6 4-6 3-6   ,3,0
+59066,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Shang J.,Otte O.,Shang J.,194,74,6-2 6-4 6-7 7-5  ,4,1
+59067,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Martinez P.,Hurkacz H.,Hurkacz H.,60,11,6-7 2-6 2-6   ,3,1
+59068,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Korda S.,Garin C.,Korda S.,31,87,6-4 1-6 6-3 6-2  ,4,0
+59069,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Ymer M.,Nishioka Y.,Nishioka Y.,69,33,4-6 2-6 5-7   ,3,0
+59070,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Shapovalov D.,Lajovic D.,Shapovalov D.,22,86,6-4 4-6 6-4 6-1  ,4,0
+59071,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Kotov P.,Griekspoor T.,Griekspoor T.,117,63,3-6 6-7 3-6   ,3,1
+59072,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Mcdonald M.,Nakashima B.,Mcdonald M.,65,49,7-6 7-6 1-6 6-7 6-4 ,5,3
+59073,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Zapata Miralles B.,Khachanov K.,Khachanov K.,72,20,6-7 2-6 0-6   ,3,1
+59074,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Tiafoe F.,Altmaier D.,Tiafoe F.,17,92,6-3 6-3 6-7 7-6  ,4,2
+59075,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Draper J.,Nadal R.,Nadal R.,38,2,5-7 6-2 4-6 1-6  ,4,0
+59076,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Daniel T.,Escobedo E.,Daniel T.,94,313,7-5 6-2 3-6 6-3  ,4,0
+59077,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Borges N.,Sonego L.,Sonego L.,111,47,6-7 3-6 7-6 1-6  ,4,2
+59078,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Lehecka J.,Coric B.,Lehecka J.,71,23,6-3 6-3 6-3   ,3,0
+59079,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Baez S.,Kubler J.,Kubler J.,44,84,4-6 4-6 4-6   ,3,0
+59080,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Svrcina D.,Munar J.,Svrcina D.,216,64,6-3 6-2 6-2   ,3,0
+59081,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Huesler M.A.,Millman J.,Millman J.,51,140,7-6 5-7 7-6 2-6 3-6 ,5,2
+59082,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Eubanks C.,Kwon S.W.,Eubanks C.,116,52,6-3 6-7 6-3 4-6 6-4 ,5,1
+59083,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Coria F.,Fucsovics M.,Fucsovics M.,76,78,6-4 5-7 6-2 6-7 2-6 ,5,1
+59084,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Molcan A.,Wawrinka S.,Molcan A.,53,139,6-7 6-3 1-6 7-6 6-4 ,5,2
+59085,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Hanfmann Y.,Hijikata R.,Hijikata R.,128,169,6-4 6-4 3-6 6-7 3-6 ,5,1
+59086,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Norrie C.,Van Assche L.,Norrie C.,12,143,7-6 6-0 6-3   ,3,1
+59087,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Pospisil V.,Auger-Aliassime F.,Auger-Aliassime F.,99,7,6-1 6-7 6-7 3-6  ,4,2
+59088,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Halys Q.,Tsitsipas S.,4,61,6-3 6-4 7-6   ,3,1
+59089,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Monteiro T.,Lestienne C.,Lestienne C.,77,55,3-6 6-7 3-6   ,3,1
+59090,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Harris L.,Musetti L.,Harris L.,186,19,6-4 6-1 6-7 2-6 7-6 ,5,2
+59091,Australian Open,2023-01-16,Grand Slam,Outdoor,Hard,1st Round,5,Giron M.,Medvedev D.,Medvedev D.,56,8,0-6 1-6 2-6   ,3,0
+59092,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Rublev A.,Thiem D.,Rublev A.,6,98,6-3 6-4 6-2   ,3,0
+59093,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Bagnis F.,Evans D.,Evans D.,91,30,4-6 6-4 4-6 4-6  ,4,0
+59094,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Bonzi B.,Bellucci M.,Bonzi B.,48,152,4-6 6-3 7-6 6-4  ,4,1
+59095,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Karatsev A.,Dimitrov G.,Dimitrov G.,82,28,6-7 5-7 2-6   ,3,1
+59096,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Djere L.,Bergs Z.,Djere L.,68,130,6-4 1-6 6-4 6-1  ,4,0
+59097,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Krutykh O.,Schwartzman D.,Schwartzman D.,188,26,4-6 7-6 3-6 6-7  ,4,2
+59098,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Jarry N.,Kecmanovic M.,Jarry N.,154,27,6-3 6-4 7-6   ,3,1
+59099,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Bublik A.,Davidovich Fokina A.,Davidovich Fokina A.,36,32,0-6 7-6 6-3 4-6 3-6 ,5,1
+59100,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Cachin P.,Carreno Busta P.,15,58,7-6 6-1 7-6   ,3,2
+59101,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Thompson J.,Wolf J.J.,Wolf J.J.,88,67,3-6 6-3 4-6 5-7  ,4,0
+59102,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Basilashvili N.,Fritz T.,9,90,6-4 6-2 4-6 7-5  ,4,0
+59103,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Krajinovic F.,Rune H.,Rune H.,54,10,2-6 3-6 4-6   ,3,0
+59104,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Shelton B.,Zhang Zh.,Shelton B.,89,96,4-6 6-3 6-2 2-6 7-6 ,5,1
+59105,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Berrettini M.,Murray A.,Murray A.,14,66,3-6 3-6 6-4 7-6 6-7 ,5,2
+59106,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Varillas J. P.,Zverev A.,13,103,4-6 6-1 5-7 7-6 6-4 ,5,1
+59107,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Struff J.L.,Paul T.,Paul T.,167,35,1-6 6-7 2-6   ,3,1
+59108,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Brooksby J.,O Connell C.,Brooksby J.,39,80,3-6 6-2 6-3 6-2  ,4,0
+59109,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Hsu Y.,De Minaur A.,De Minaur A.,209,24,2-6 2-6 3-6   ,3,0
+59110,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Popyrin A.,Tseng C. H.,Popyrin A.,113,115,4-6 7-6 6-7 7-6 6-1 ,5,3
+59111,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Machac T.,Ruud C.,Ruud C.,110,3,3-6 6-7 7-6 3-6  ,4,2
+59112,Australian Open,2023-01-17,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Carballes Baena R.,Djokovic N.,5,75,6-3 6-4 6-0   ,3,0
+59113,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Purcell M.,Ruusuvuori E.,Ruusuvuori E.,205,46,6-4 3-6 4-6 6-7  ,4,1
+59114,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Humbert U.,Gasquet R.,Humbert U.,106,42,6-3 6-4 6-3   ,3,0
+59115,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Safiullin R.,Kudla D.,Kudla D.,97,108,6-3 5-7 6-7 3-6  ,4,1
+59116,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Mmoh M.,Lokoli L.,Mmoh M.,107,175,7-6 6-4 6-2   ,3,1
+59117,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Isner J.,Mannarino A.,Mannarino A.,43,45,7-6 6-7 2-6 2-6  ,4,2
+59118,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Holt B.,Vukic A.,Holt B.,215,146,6-4 1-6 6-3 3-6 6-3 ,5,0
+59119,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Sousa J.,Bautista Agut R.,Bautista Agut R.,81,25,3-6 2-6 2-6   ,3,0
+59120,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Couacaud E.,Dellien H.,Couacaud E.,191,131,6-4 7-5 6-0   ,3,0
+59121,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Ramos-Vinolas A.,Cressy M.,Cressy M.,37,41,6-7 5-7 6-3 3-6  ,4,1
+59122,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,1st Round,5,Kokkinakis T.,Fognini F.,Kokkinakis T.,159,57,6-1 6-2 6-2   ,3,0
+59123,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Etcheverry T.,Sinner J.,Sinner J.,79,16,3-6 2-6 2-6   ,3,0
+59124,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Auger-Aliassime F.,Molcan A.,Auger-Aliassime F.,7,53,3-6 3-6 6-3 6-2 6-2 ,5,0
+59125,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Nadal R.,Mcdonald M.,Mcdonald M.,2,65,4-6 4-6 5-7   ,3,0
+59126,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Tiafoe F.,Shang J.,Tiafoe F.,17,194,6-4 6-4 6-1   ,3,0
+59127,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Harris L.,Fucsovics M.,Fucsovics M.,186,78,2-6 3-6 7-5 4-6  ,4,0
+59128,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Kubler J.,Khachanov K.,20,84,6-4 5-7 6-4 6-2  ,4,0
+59129,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Millman J.,Medvedev D.,Medvedev D.,140,8,5-7 2-6 2-6   ,3,0
+59130,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Nishioka Y.,Svrcina D.,Nishioka Y.,33,216,6-3 6-4 6-2   ,3,0
+59131,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Moutet C.,Cerundolo F.,Cerundolo F.,62,29,6-3 4-6 2-6 5-7  ,4,0
+59132,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Shapovalov D.,Daniel T.,Shapovalov D.,22,94,6-3 7-6 7-5   ,3,1
+59133,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Sonego L.,Hurkacz H.,Hurkacz H.,47,11,6-3 6-7 6-2 3-6 3-6 ,5,1
+59134,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Tsitsipas S.,Hijikata R.,Tsitsipas S.,4,169,6-3 6-0 6-2   ,3,0
+59135,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Watanuki Y.,Korda S.,Korda S.,138,31,2-6 5-7 4-6   ,3,0
+59136,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Griekspoor T.,Van De Zandschulp B.,Griekspoor T.,63,34,6-4 6-4 6-4   ,3,0
+59137,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Eubanks C.,Lehecka J.,Lehecka J.,116,71,4-6 4-6 6-3 3-6  ,4,0
+59138,Australian Open,2023-01-18,Grand Slam,Outdoor,Hard,2nd Round,5,Norrie C.,Lestienne C.,Norrie C.,12,55,6-3 3-6 7-6 6-3  ,4,1
+59139,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Davidovich Fokina A.,Paul T.,Paul T.,32,35,2-6 6-2 7-6 3-6 4-6 ,5,1
+59140,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Brooksby J.,Ruud C.,Brooksby J.,39,3,6-3 7-5 6-7 6-2  ,4,1
+59141,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Ruusuvuori E.,Rublev A.,Rublev A.,46,6,2-6 4-6 7-6 3-6  ,4,1
+59142,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Shelton B.,Jarry N.,Shelton B.,89,154,7-6 7-6 7-5   ,3,2
+59143,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Schwartzman D.,Wolf J.J.,Wolf J.J.,26,67,1-6 4-6 4-6   ,3,0
+59144,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Popyrin A.,Fritz T.,Popyrin A.,113,9,6-7 7-6 6-4 6-7 6-2 ,5,3
+59145,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Kudla D.,Humbert U.,Humbert U.,108,106,2-6 7-6 2-6 4-6  ,4,1
+59146,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Mmoh M.,Zverev A.,Mmoh M.,107,13,6-7 6-4 6-3 6-2  ,4,1
+59147,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Djere L.,Dimitrov G.,Dimitrov G.,68,28,3-6 2-6 0-6   ,3,0
+59148,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Rune H.,Cressy M.,Rune H.,10,41,7-5 6-4 6-4   ,3,0
+59149,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Holt B.,Bautista Agut R.,Bautista Agut R.,215,25,6-4 6-2 3-6 2-6 2-6 ,5,0
+59150,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Bonzi B.,Carreno Busta P.,Bonzi B.,48,15,4-6 4-6 7-6 6-1 7-6 ,5,2
+59151,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Mannarino A.,De Minaur A.,De Minaur A.,45,24,6-7 6-4 4-6 1-6  ,4,1
+59152,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Couacaud E.,Djokovic N.,5,191,6-1 6-7 6-2 6-0  ,4,1
+59153,Australian Open,2023-01-19,Grand Slam,Outdoor,Hard,2nd Round,5,Kokkinakis T.,Murray A.,Murray A.,159,66,6-4 7-6 6-7 3-6 5-7 ,5,2
+59154,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Sinner J.,Fucsovics M.,Sinner J.,16,78,4-6 4-6 6-1 6-2 6-0 ,5,0
+59155,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Griekspoor T.,Tsitsipas S.,Tsitsipas S.,63,4,2-6 6-7 3-6   ,3,1
+59156,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Nishioka Y.,Mcdonald M.,Nishioka Y.,33,65,7-6 6-3 6-2   ,3,1
+59157,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Cerundolo F.,Auger-Aliassime F.,Auger-Aliassime F.,29,7,1-6 6-3 1-6 4-6  ,4,0
+59158,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Lehecka J.,Norrie C.,Lehecka J.,71,12,6-7 6-3 3-6 6-1 6-4 ,5,1
+59159,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Shapovalov D.,Hurkacz H.,Hurkacz H.,22,11,6-7 4-6 6-1 6-4 3-6 ,5,1
+59160,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Khachanov K.,Tiafoe F.,Khachanov K.,20,17,6-3 6-4 3-6 7-6  ,4,1
+59161,Australian Open,2023-01-20,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Korda S.,Korda S.,8,31,6-7 3-6 6-7   ,3,2
+59162,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Rublev A.,Evans D.,Rublev A.,6,30,6-4 6-2 6-3   ,3,0
+59163,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Humbert U.,Rune H.,Rune H.,106,10,4-6 2-6 6-7   ,3,1
+59164,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,De Minaur A.,Bonzi B.,De Minaur A.,24,48,7-6 6-2 6-1   ,3,1
+59165,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Brooksby J.,Paul T.,Paul T.,39,35,1-6 4-6 3-6   ,3,0
+59166,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Wolf J.J.,Mmoh M.,Wolf J.J.,67,107,6-4 6-1 6-2   ,3,0
+59167,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Popyrin A.,Shelton B.,Shelton B.,113,89,3-6 6-7 4-6   ,3,1
+59168,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Bautista Agut R.,Murray A.,Bautista Agut R.,25,66,6-1 6-7 6-3 6-4  ,4,1
+59169,Australian Open,2023-01-21,Grand Slam,Outdoor,Hard,3rd Round,5,Dimitrov G.,Djokovic N.,Djokovic N.,28,5,6-7 3-6 4-6   ,3,1
+59170,Australian Open,2023-01-22,Grand Slam,Outdoor,Hard,4th Round,5,Korda S.,Hurkacz H.,Korda S.,31,11,3-6 6-3 6-2 1-6 7-6 ,5,1
+59171,Australian Open,2023-01-22,Grand Slam,Outdoor,Hard,4th Round,5,Nishioka Y.,Khachanov K.,Khachanov K.,33,20,0-6 0-6 6-7   ,3,1
+59172,Australian Open,2023-01-22,Grand Slam,Outdoor,Hard,4th Round,5,Lehecka J.,Auger-Aliassime F.,Lehecka J.,71,7,4-6 6-3 7-6 7-6  ,4,2
+59173,Australian Open,2023-01-22,Grand Slam,Outdoor,Hard,4th Round,5,Sinner J.,Tsitsipas S.,Tsitsipas S.,16,4,4-6 4-6 6-3 6-4 3-6 ,5,0
+59174,Australian Open,2023-01-23,Grand Slam,Outdoor,Hard,4th Round,5,Shelton B.,Wolf J.J.,Shelton B.,89,67,6-7 6-2 6-7 7-6 6-2 ,5,3
+59175,Australian Open,2023-01-23,Grand Slam,Outdoor,Hard,4th Round,5,Rune H.,Rublev A.,Rublev A.,10,6,3-6 6-3 3-6 6-4 6-7 ,5,1
+59176,Australian Open,2023-01-23,Grand Slam,Outdoor,Hard,4th Round,5,Paul T.,Bautista Agut R.,Paul T.,35,25,6-2 4-6 6-2 7-5  ,4,0
+59177,Australian Open,2023-01-23,Grand Slam,Outdoor,Hard,4th Round,5,De Minaur A.,Djokovic N.,Djokovic N.,24,5,2-6 1-6 2-6   ,3,0
+59178,Australian Open,2023-01-24,Grand Slam,Outdoor,Hard,Quarterfinals,5,Tsitsipas S.,Lehecka J.,Tsitsipas S.,4,71,6-3 7-6 6-4   ,3,1
+59179,Australian Open,2023-01-25,Grand Slam,Outdoor,Hard,Quarterfinals,5,Shelton B.,Paul T.,Paul T.,89,35,6-7 3-6 7-5 4-6  ,4,1
+59180,Australian Open,2023-01-25,Grand Slam,Outdoor,Hard,Quarterfinals,5,Djokovic N.,Rublev A.,Djokovic N.,5,6,6-1 6-2 6-4   ,3,0
+59181,Australian Open,2023-01-27,Grand Slam,Outdoor,Hard,Semifinals,5,Khachanov K.,Tsitsipas S.,Tsitsipas S.,20,4,6-7 4-6 7-6 3-6  ,4,2
+59182,Australian Open,2023-01-27,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,Paul T.,Djokovic N.,5,35,7-5 6-1 6-2   ,3,0
+59183,Australian Open,2023-01-29,Grand Slam,Outdoor,Hard,The Final,5,Tsitsipas S.,Djokovic N.,Djokovic N.,4,5,3-6 6-7 6-7   ,3,2
+59506,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Humbert U.,Zapata Miralles B.,Humbert U.,77,42,6-2 7-6    ,2,1
+59507,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Kovacevic A.,Giron M.,Giron M.,107,73,3-6 5-7    ,2,0
+59508,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Ivashka I.,Safiullin R.,Ivashka I.,85,113,6-4 6-2    ,2,0
+59509,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Djere L.,Otte O.,Otte O.,54,82,3-6 5-7    ,2,0
+59510,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Kubler J.,Sonego L.,Kubler J.,75,60,6-4 7-6    ,2,1
+59511,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Isner J.,Nakashima B.,Nakashima B.,39,48,6-7 3-6    ,2,1
+59512,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Cachin P.,Basilashvili N.,Cachin P.,66,118,7-5 6-3    ,2,0
+59513,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Carballes Baena R.,Daniel T.,Daniel T.,79,103,1-6 5-7    ,2,0
+59514,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Garin C.,Galan D.E.,Garin C.,97,89,6-4 6-2    ,2,0
+59515,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Munar J.,Wu Y.,Wu Y.,58,67,7-6 0-6 6-7   ,3,2
+59516,BNP Paribas Open,2023-03-08,Masters 1000,Outdoor,Hard,1st Round,3,Lehecka J.,Rinderknech A.,Lehecka J.,47,72,7-6 7-5    ,2,1
+59517,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Coria F.,Schwartzman D.,Schwartzman D.,64,38,1-6 2-6    ,2,0
+59518,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Thompson J.,Monfils G.,Thompson J.,87,210,6-3 6-1    ,2,0
+59519,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Marterer M.,Tabilo A.,Tabilo A.,156,187,4-6 3-6    ,2,0
+59520,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Wu T.L.,Bublik A.,Wu T.L.,175,46,6-4 6-4    ,2,0
+59521,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Krajinovic F.,Mcdonald M.,Mcdonald M.,74,53,3-6 0-6    ,2,0
+59522,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Struff J.L.,Halys Q.,Struff J.L.,134,81,1-6 6-3 6-3   ,3,0
+59523,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Riedi L.,Draper J.,Draper J.,135,56,1-6 1-6    ,2,0
+59524,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Wawrinka S.,Vukic A.,Wawrinka S.,100,186,6-4 1-6 6-1   ,3,0
+59525,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Monteiro T.,Pella G.,Pella G.,78,739,6-3 5-7 2-6   ,3,0
+59526,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Kokkinakis T.,Holt B.,Kokkinakis T.,94,193,6-4 6-1    ,2,0
+59527,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Fognini F.,Shelton B.,Shelton B.,88,41,4-6 1-6    ,2,0
+59528,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Fucsovics M.,Wolf J.J.,Fucsovics M.,84,44,1-6 6-0 6-3   ,3,0
+59529,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Ramos-Vinolas A.,Molcan A.,Molcan A.,50,63,3-6 2-6    ,2,0
+59530,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Murray A.,Etcheverry T.,Murray A.,55,61,6-7 6-1 6-4   ,3,1
+59531,BNP Paribas Open,2023-03-09,Masters 1000,Outdoor,Hard,1st Round,3,Huesler M.A.,Martinez P.,Martinez P.,51,120,6-7 6-3 4-6   ,3,1
+59532,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,1st Round,3,Hijikata R.,Ymer M.,Hijikata R.,130,57,6-4 7-5    ,2,0
+59533,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,1st Round,3,Gojo B.,Gasquet R.,Gasquet R.,121,43,4-6 7-6 2-6   ,3,1
+59534,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,1st Round,3,Mannarino A.,Thiem D.,Mannarino A.,68,102,4-6 6-4 7-6   ,3,1
+59535,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,1st Round,3,Barrere G.,Sock J.,Sock J.,65,154,4-6 2-6    ,2,0
+59536,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,1st Round,3,Popyrin A.,Zhang Zh.,Popyrin A.,101,93,6-4 5-7 6-1   ,3,0
+59537,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Wu T.L.,Norrie C.,Norrie C.,175,12,2-6 4-6    ,2,0
+59538,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Garin C.,Nishioka Y.,Garin C.,97,34,6-4 6-0    ,2,0
+59539,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Schwartzman D.,Ruud C.,Ruud C.,38,4,2-6 3-6    ,2,0
+59540,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Ruusuvuori E.,Bautista Agut R.,Ruusuvuori E.,59,27,7-6 6-2    ,2,1
+59541,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Tsitsipas S.,Thompson J.,Thompson J.,3,87,6-7 6-4 6-7   ,3,2
+59542,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Tabilo A.,Cressy M.,Tabilo A.,187,37,7-6 7-6    ,2,2
+59543,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Wu Y.,Davidovich Fokina A.,Davidovich Fokina A.,67,28,4-6 1-6    ,2,0
+59544,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Zverev A.,Cachin P.,Zverev A.,14,66,6-3 6-1    ,2,0
+59545,BNP Paribas Open,2023-03-10,Masters 1000,Outdoor,Hard,2nd Round,3,Shapovalov D.,Humbert U.,Humbert U.,30,77,5-7 4-6    ,2,0
+59546,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Daniel T.,Berrettini M.,Daniel T.,103,23,7-6 0-6 6-3   ,3,1
+59547,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Otte O.,Khachanov K.,Khachanov K.,82,15,3-6 3-6    ,2,0
+59548,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Medvedev D.,Nakashima B.,Medvedev D.,6,48,6-4 6-3    ,2,0
+59549,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Giron M.,Tiafoe F.,Tiafoe F.,73,16,2-6 2-6    ,2,0
+59550,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Rublev A.,Lehecka J.,Rublev A.,7,47,6-4 6-2    ,2,0
+59551,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Evans D.,Draper J.,Draper J.,29,56,4-6 2-6    ,2,0
+59552,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Sinner J.,Gasquet R.,Sinner J.,13,43,6-3 7-6    ,2,1
+59553,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Martinez P.,Auger-Aliassime F.,Auger-Aliassime F.,120,10,6-7 4-6    ,2,1
+59554,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Wawrinka S.,Kecmanovic M.,Wawrinka S.,100,31,7-6 6-4    ,2,1
+59555,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Coric B.,Molcan A.,Molcan A.,20,63,3-6 3-6    ,2,0
+59556,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Paul T.,Struff J.L.,Paul T.,19,134,6-3 6-3    ,2,0
+59557,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,De Minaur A.,Fucsovics M.,Fucsovics M.,18,84,4-6 2-6    ,2,0
+59558,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Murray A.,Albot R.,Murray A.,55,109,6-4 6-3    ,2,0
+59559,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Sock J.,Cerundolo F.,Cerundolo F.,154,32,6-4 3-6 4-6   ,3,0
+59560,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Griekspoor T.,Pella G.,Griekspoor T.,36,739,7-6 7-6    ,2,2
+59561,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Shelton B.,Fritz T.,Fritz T.,41,5,6-4 4-6 3-6   ,3,0
+59562,BNP Paribas Open,2023-03-11,Masters 1000,Outdoor,Hard,2nd Round,3,Mannarino A.,Musetti L.,Mannarino A.,68,21,6-4 6-4    ,2,0
+59563,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,2nd Round,3,Popyrin A.,Hurkacz H.,Hurkacz H.,101,11,3-6 3-6    ,2,0
+59564,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,2nd Round,3,Baez S.,Hijikata R.,Baez S.,35,130,6-3 6-1    ,2,0
+59565,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,2nd Round,3,Mcdonald M.,Rune H.,Rune H.,53,8,5-7 3-6    ,2,0
+59566,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,2nd Round,3,Alcaraz C.,Kokkinakis T.,Alcaraz C.,2,94,6-3 6-3    ,2,0
+59567,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,3rd Round,3,Ruud C.,Garin C.,Garin C.,4,97,4-6 6-7    ,2,1
+59568,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,3rd Round,3,Norrie C.,Daniel T.,Norrie C.,12,103,6-7 7-5 6-2   ,3,1
+59569,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,3rd Round,3,Ruusuvuori E.,Zverev A.,Zverev A.,59,14,5-7 6-1 5-7   ,3,0
+59570,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,3rd Round,3,Davidovich Fokina A.,Khachanov K.,Davidovich Fokina A.,28,15,6-3 1-6 6-4   ,3,0
+59571,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,3rd Round,3,Kubler J.,Tiafoe F.,Tiafoe F.,75,16,3-6 2-6    ,2,0
+59572,BNP Paribas Open,2023-03-12,Masters 1000,Outdoor,Hard,3rd Round,3,Rublev A.,Humbert U.,Rublev A.,7,77,7-5 6-3    ,2,0
+59573,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Ivashka I.,Medvedev D.,Medvedev D.,85,6,2-6 6-3 1-6   ,3,0
+59574,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Tabilo A.,Thompson J.,Tabilo A.,187,87,6-3 7-6    ,2,1
+59575,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Hurkacz H.,Paul T.,Paul T.,11,19,6-4 2-6 4-6   ,3,0
+59576,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Auger-Aliassime F.,Cerundolo F.,Auger-Aliassime F.,10,32,7-5 6-4    ,2,0
+59577,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Rune H.,Wawrinka S.,Wawrinka S.,8,100,2-6 7-6 5-7   ,3,1
+59578,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Fucsovics M.,Molcan A.,Fucsovics M.,84,63,6-4 6-2    ,2,0
+59579,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Baez S.,Fritz T.,Fritz T.,35,5,1-6 2-6    ,2,0
+59580,BNP Paribas Open,2023-03-13,Masters 1000,Outdoor,Hard,3rd Round,3,Sinner J.,Mannarino A.,Sinner J.,13,68,7-6 6-4    ,2,1
+59581,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,3rd Round,3,Murray A.,Draper J.,Draper J.,55,56,6-7 2-6    ,2,1
+59582,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,3rd Round,3,Alcaraz C.,Griekspoor T.,Alcaraz C.,2,36,7-6 6-3    ,2,1
+59583,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,4th Round,3,Garin C.,Davidovich Fokina A.,Davidovich Fokina A.,97,28,3-6 4-6    ,2,0
+59584,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,4th Round,3,Medvedev D.,Zverev A.,Medvedev D.,6,14,6-7 7-6 7-5   ,3,2
+59585,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,4th Round,3,Rublev A.,Norrie C.,Norrie C.,7,12,2-6 4-6    ,2,0
+59586,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,4th Round,3,Fritz T.,Fucsovics M.,Fritz T.,5,84,6-4 6-3    ,2,0
+59587,BNP Paribas Open,2023-03-14,Masters 1000,Outdoor,Hard,4th Round,3,Tabilo A.,Tiafoe F.,Tiafoe F.,187,16,4-6 4-6    ,2,0
+59588,BNP Paribas Open,2023-03-15,Masters 1000,Outdoor,Hard,4th Round,3,Sinner J.,Wawrinka S.,Sinner J.,13,100,6-1 6-4    ,2,0
+59589,BNP Paribas Open,2023-03-15,Masters 1000,Outdoor,Hard,4th Round,3,Paul T.,Auger-Aliassime F.,Auger-Aliassime F.,19,10,6-3 3-6 6-7   ,3,1
+59590,BNP Paribas Open,2023-03-15,Masters 1000,Outdoor,Hard,Quarterfinals,3,Tiafoe F.,Norrie C.,Tiafoe F.,16,12,6-4 6-4    ,2,0
+59591,BNP Paribas Open,2023-03-15,Masters 1000,Outdoor,Hard,Quarterfinals,3,Davidovich Fokina A.,Medvedev D.,Medvedev D.,28,6,3-6 5-7    ,2,0
+59592,BNP Paribas Open,2023-03-16,Masters 1000,Outdoor,Hard,Quarterfinals,3,Sinner J.,Fritz T.,Sinner J.,13,5,6-4 4-6 6-4   ,3,0
+59593,BNP Paribas Open,2023-03-17,Masters 1000,Outdoor,Hard,Quarterfinals,3,Auger-Aliassime F.,Alcaraz C.,Alcaraz C.,10,2,4-6 4-6    ,2,0
+59594,BNP Paribas Open,2023-03-18,Masters 1000,Outdoor,Hard,Semifinals,3,Medvedev D.,Tiafoe F.,Medvedev D.,6,16,7-5 7-6    ,2,1
+59595,BNP Paribas Open,2023-03-18,Masters 1000,Outdoor,Hard,Semifinals,3,Sinner J.,Alcaraz C.,Alcaraz C.,13,2,6-7 3-6    ,2,1
+59596,BNP Paribas Open,2023-03-19,Masters 1000,Outdoor,Hard,The Final,3,Alcaraz C.,Medvedev D.,Alcaraz C.,2,6,6-3 6-2    ,2,0
+59597,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Otte O.,Nakashima B.,Nakashima B.,85,45,6-7 3-6    ,2,1
+59598,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Huesler M.A.,Ramos-Vinolas A.,Huesler M.A.,47,51,6-7 7-6 6-3   ,3,2
+59599,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Meligeni Alves F.,Bagnis F.,Bagnis F.,164,100,3-6 6-1 4-6   ,3,0
+59600,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Fucsovics M.,Cachin P.,Fucsovics M.,74,63,6-4 7-6    ,2,1
+59601,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Varillas J.P.,Pella G.,Pella G.,88,581,6-1 3-6 2-6   ,3,0
+59602,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Djere L.,Vukic A.,Djere L.,58,168,6-2 7-6    ,2,1
+59603,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Bublik A.,Wolf J.J.,Wolf J.J.,48,50,5-7 3-6    ,2,0
+59604,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Ivashka I.,Altmaier D.,Ivashka I.,80,114,6-2 6-1    ,2,0
+59605,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Murray A.,Lajovic D.,Lajovic D.,52,76,4-6 5-7    ,2,0
+59606,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Ruusuvuori E.,Borges N.,Ruusuvuori E.,54,68,6-1 6-4    ,2,0
+59607,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Edmund K.,Wu Y.,Wu Y.,544,64,5-7 5-7    ,2,0
+59608,Miami Open,2023-03-22,Masters 1000,Outdoor,Hard,1st Round,3,Struff J.L.,Fognini F.,Struff J.L.,103,91,6-4 5-7 6-4   ,3,0
+59609,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Isner J.,Nava E.,Nava E.,46,182,6-7 6-7    ,2,2
+59610,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Kovacevic A.,Munar J.,Kovacevic A.,102,66,7-6 2-6 6-1   ,3,1
+59611,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Coria F.,Lehecka J.,Lehecka J.,67,44,3-6 4-6    ,2,0
+59612,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Halys Q.,Martinez P.,Halys Q.,79,121,6-2 7-6    ,2,1
+59613,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Giron M.,Garin C.,Garin C.,71,82,4-6 6-2 4-6   ,3,0
+59614,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Mannarino A.,Shang J.,Mannarino A.,62,181,1-6 6-4 6-2   ,3,0
+59615,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Thompson J.,Molcan A.,Molcan A.,83,56,2-6 6-4 3-6   ,3,0
+59616,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Eubanks C.,Kudla D.,Eubanks C.,119,122,7-6 6-2    ,2,1
+59617,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Galan D.E.,Mcdonald M.,Mcdonald M.,89,55,4-6 2-6    ,2,0
+59618,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Watanuki Y.,Paire B.,Watanuki Y.,123,170,6-4 7-5    ,2,0
+59619,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,O Connell C.,Gasquet R.,Gasquet R.,86,40,4-6 6-3 1-6   ,3,0
+59620,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Monteiro T.,Kubler J.,Monteiro T.,81,70,6-4 7-6    ,2,1
+59621,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Safiullin R.,Barrere G.,Barrere G.,104,65,4-6 6-3 3-6   ,3,0
+59622,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Etcheverry T.,Kotov P.,Etcheverry T.,73,117,6-2 6-2    ,2,0
+59623,Miami Open,2023-03-23,Masters 1000,Outdoor,Hard,1st Round,3,Thiem D.,Sonego L.,Sonego L.,106,59,6-7 2-6    ,2,1
+59624,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,1st Round,3,Kokkinakis T.,Bergs Z.,Kokkinakis T.,94,135,4-6 6-3 7-6   ,3,1
+59625,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Bautista Agut R.,Ruusuvuori E.,Ruusuvuori E.,28,54,4-6 6-7    ,2,1
+59626,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Shapovalov D.,Pella G.,Shapovalov D.,30,581,6-3 3-6 6-3   ,3,0
+59627,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Wolf J.J.,Rublev A.,Rublev A.,50,7,6-7 4-6    ,2,1
+59628,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Sinner J.,Djere L.,Sinner J.,11,58,6-4 6-2    ,2,0
+59629,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Wu Y.,Schwartzman D.,Schwartzman D.,64,38,6-7 1-6    ,2,1
+59630,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Van De Zandschulp B.,Popyrin A.,Van De Zandschulp B.,32,93,4-6 7-6 6-2   ,3,1
+59631,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Huesler M.A.,Paul T.,Paul T.,47,19,7-5 3-6 4-6   ,3,0
+59632,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Fritz T.,Nava E.,Fritz T.,10,182,6-4 6-1    ,2,0
+59633,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Humbert U.,Kecmanovic M.,Kecmanovic M.,78,35,4-6 7-6 6-7   ,3,2
+59634,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Dimitrov G.,Struff J.L.,Dimitrov G.,27,103,4-6 7-6 6-4   ,3,1
+59635,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Bagnis F.,Alcaraz C.,Alcaraz C.,100,1,0-6 2-6    ,2,0
+59636,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Davidovich Fokina A.,Nakashima B.,Davidovich Fokina A.,25,45,6-4 7-6    ,2,1
+59637,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Cressy M.,Lajovic D.,Lajovic D.,37,76,4-6 6-7    ,2,1
+59638,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Ruud C.,Ivashka I.,Ruud C.,4,80,6-2 6-3    ,2,0
+59639,Miami Open,2023-03-24,Masters 1000,Outdoor,Hard,2nd Round,3,Fucsovics M.,Rune H.,Rune H.,74,8,3-6 5-7    ,2,0
+59640,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Daniel T.,Zverev A.,Daniel T.,97,15,6-0 6-4    ,2,0
+59641,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Kovacevic A.,Cerundolo F.,Cerundolo F.,102,31,4-6 4-6    ,2,0
+59642,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Eubanks C.,Coric B.,Eubanks C.,119,20,3-6 6-4 6-2   ,3,0
+59643,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Musetti L.,Lehecka J.,Lehecka J.,21,44,4-6 4-6    ,2,0
+59644,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Garin C.,Baez S.,Garin C.,82,33,7-6 6-3    ,2,1
+59645,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Berrettini M.,Mcdonald M.,Mcdonald M.,23,55,6-7 6-7    ,2,2
+59646,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Molcan A.,Nishioka Y.,Molcan A.,56,34,7-6 1-6 6-2   ,3,1
+59647,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,De Minaur A.,Halys Q.,Halys Q.,18,79,7-6 6-7 6-7   ,3,3
+59648,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Auger-Aliassime F.,Monteiro T.,Auger-Aliassime F.,6,81,7-6 7-6    ,2,2
+59649,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Evans D.,Sonego L.,Sonego L.,29,59,6-4 3-6 2-6   ,3,0
+59650,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Hurkacz H.,Kokkinakis T.,Hurkacz H.,9,94,6-7 7-6 7-6   ,3,3
+59651,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Etcheverry T.,Khachanov K.,Khachanov K.,73,16,1-6 6-3 3-6   ,3,0
+59652,Miami Open,2023-03-25,Masters 1000,Outdoor,Hard,2nd Round,3,Medvedev D.,Carballes Baena R.,Medvedev D.,5,84,6-1 6-2    ,2,0
+59653,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Watanuki Y.,Tiafoe F.,Tiafoe F.,123,14,7-6 6-7 4-6   ,3,2
+59654,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Barrere G.,Norrie C.,Barrere G.,65,12,6-3 6-2    ,2,0
+59655,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,2nd Round,3,Shelton B.,Mannarino A.,Mannarino A.,39,62,4-6 6-3 1-6   ,3,0
+59656,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,3rd Round,3,Paul T.,Davidovich Fokina A.,Paul T.,19,25,6-3 7-5    ,2,0
+59657,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,3rd Round,3,Schwartzman D.,Rune H.,Rune H.,38,8,4-6 2-6    ,2,0
+59658,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,3rd Round,3,Fritz T.,Shapovalov D.,Fritz T.,10,30,6-4 6-4    ,2,0
+59659,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,3rd Round,3,Kecmanovic M.,Rublev A.,Rublev A.,35,7,1-6 2-6    ,2,0
+59660,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,3rd Round,3,Ruusuvuori E.,Daniel T.,Ruusuvuori E.,54,97,6-3 7-6    ,2,1
+59661,Miami Open,2023-03-26,Masters 1000,Outdoor,Hard,3rd Round,3,Lajovic D.,Alcaraz C.,Alcaraz C.,76,1,0-6 6-7    ,2,1
+59662,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Sinner J.,Dimitrov G.,Sinner J.,11,27,6-3 6-4    ,2,0
+59663,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Ruud C.,Van De Zandschulp B.,Van De Zandschulp B.,4,32,6-3 4-6 4-6   ,3,0
+59664,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Khachanov K.,Lehecka J.,Khachanov K.,16,44,6-2 6-4    ,2,0
+59665,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Garin C.,Tsitsipas S.,Tsitsipas S.,82,3,3-6 6-4 4-6   ,3,0
+59666,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Halys Q.,Mcdonald M.,Halys Q.,79,55,7-6 6-3    ,2,1
+59667,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Auger-Aliassime F.,Cerundolo F.,Cerundolo F.,6,31,2-6 5-7    ,2,0
+59668,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Mannarino A.,Hurkacz H.,Mannarino A.,62,9,7-6 7-6    ,2,2
+59669,Miami Open,2023-03-27,Masters 1000,Outdoor,Hard,3rd Round,3,Barrere G.,Eubanks C.,Eubanks C.,65,119,3-6 6-7    ,2,1
+59670,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,3rd Round,3,Sonego L.,Tiafoe F.,Sonego L.,59,14,6-3 6-4    ,2,0
+59671,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,4th Round,3,Rublev A.,Sinner J.,Sinner J.,7,11,2-6 4-6    ,2,0
+59672,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,4th Round,3,Fritz T.,Rune H.,Fritz T.,10,8,6-3 6-4    ,2,0
+59673,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,4th Round,3,Van De Zandschulp B.,Ruusuvuori E.,Ruusuvuori E.,32,54,6-4 4-6 5-7   ,3,0
+59674,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,4th Round,3,Alcaraz C.,Paul T.,Alcaraz C.,1,19,6-4 6-4    ,2,0
+59675,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,4th Round,3,Tsitsipas S.,Khachanov K.,Khachanov K.,3,16,6-7 4-6    ,2,1
+59676,Miami Open,2023-03-28,Masters 1000,Outdoor,Hard,4th Round,3,Eubanks C.,Mannarino A.,Eubanks C.,119,62,7-6 7-6    ,2,2
+59677,Miami Open,2023-03-29,Masters 1000,Outdoor,Hard,4th Round,3,Sonego L.,Cerundolo F.,Cerundolo F.,59,31,6-3 3-6 2-6   ,3,0
+59678,Miami Open,2023-03-29,Masters 1000,Outdoor,Hard,4th Round,3,Medvedev D.,Halys Q.,Medvedev D.,5,79,6-4 6-2    ,2,0
+59679,Miami Open,2023-03-29,Masters 1000,Outdoor,Hard,Quarterfinals,3,Ruusuvuori E.,Sinner J.,Sinner J.,54,11,3-6 1-6    ,2,0
+59680,Miami Open,2023-03-30,Masters 1000,Outdoor,Hard,Quarterfinals,3,Medvedev D.,Eubanks C.,Medvedev D.,5,119,6-3 7-5    ,2,0
+59681,Miami Open,2023-03-30,Masters 1000,Outdoor,Hard,Quarterfinals,3,Cerundolo F.,Khachanov K.,Khachanov K.,31,16,3-6 2-6    ,2,0
+59682,Miami Open,2023-03-31,Masters 1000,Outdoor,Hard,Quarterfinals,3,Alcaraz C.,Fritz T.,Alcaraz C.,1,10,6-4 6-2    ,2,0
+59683,Miami Open,2023-03-31,Masters 1000,Outdoor,Hard,Semifinals,3,Khachanov K.,Medvedev D.,Medvedev D.,16,5,6-7 6-3 3-6   ,3,1
+59684,Miami Open,2023-04-01,Masters 1000,Outdoor,Hard,Semifinals,3,Sinner J.,Alcaraz C.,Sinner J.,11,1,6-7 6-4 6-2   ,3,1
+59685,Miami Open,2023-04-02,Masters 1000,Outdoor,Hard,The Final,3,Sinner J.,Medvedev D.,Medvedev D.,11,5,5-7 3-6    ,2,0
+59766,Monte Carlo Masters,2023-04-09,Masters 1000,Outdoor,Clay,1st Round,3,Jarry N.,Coric B.,Jarry N.,58,20,6-2 6-3    ,2,0
+59767,Monte Carlo Masters,2023-04-09,Masters 1000,Outdoor,Clay,1st Round,3,Huesler M.A.,Munar J.,Munar J.,60,83,6-7 6-4 4-6   ,3,1
+59768,Monte Carlo Masters,2023-04-09,Masters 1000,Outdoor,Clay,1st Round,3,Hurkacz H.,Djere L.,Hurkacz H.,13,62,6-7 7-6 7-6   ,3,3
+59769,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Fucsovics M.,Van De Zandschulp B.,Van De Zandschulp B.,73,31,6-3 6-7 1-6   ,3,1
+59770,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Wawrinka S.,Griekspoor T.,Wawrinka S.,90,35,5-7 6-3 6-4   ,3,0
+59771,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Zapata Miralles B.,Bonzi B.,Bonzi B.,41,48,1-6 5-7    ,2,0
+59772,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Cerundolo F.,Norrie C.,Cerundolo F.,33,14,6-3 6-4    ,2,0
+59773,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Baez S.,Draper J.,Draper J.,32,56,3-6 5-7    ,2,0
+59774,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Popyrin A.,Lajovic D.,Popyrin A.,94,69,7-6 6-3    ,2,1
+59775,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Ramos-Vinolas A.,Struff J.L.,Struff J.L.,50,100,4-6 3-6    ,2,0
+59776,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Berrettini M.,Cressy M.,Berrettini M.,22,40,6-4 6-2    ,2,0
+59777,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Mcdonald M.,Gakhov I.,Gakhov I.,52,198,6-7 6-2 3-6   ,3,1
+59778,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Schwartzman D.,Goffin D.,Schwartzman D.,37,85,6-4 6-2    ,2,0
+59779,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Murray A.,De Minaur A.,De Minaur A.,54,19,1-6 3-6    ,2,0
+59780,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Bautista Agut R.,Krajinovic F.,Bautista Agut R.,29,78,5-7 7-6 6-1   ,3,1
+59781,Monte Carlo Masters,2023-04-10,Masters 1000,Outdoor,Clay,1st Round,3,Gasquet R.,Thiem D.,Thiem D.,43,106,1-6 4-6    ,2,0
+59782,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Lehecka J.,Ruusuvuori E.,Lehecka J.,42,38,6-1 7-5    ,2,0
+59783,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Shelton B.,Dimitrov G.,Dimitrov G.,39,25,1-6 6-3 3-6   ,3,0
+59784,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Sonego L.,Humbert U.,Sonego L.,45,79,3-6 7-5 7-5   ,3,0
+59785,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Bublik A.,Zverev A.,Zverev A.,53,16,6-3 2-6 4-6   ,3,0
+59786,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Khachanov K.,Davidovich Fokina A.,Khachanov K.,12,24,6-2 6-2    ,2,0
+59787,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Vacherot V.,Nardi L.,Nardi L.,357,159,5-7 5-7    ,2,0
+59788,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Musetti L.,Kecmanovic M.,Musetti L.,21,34,7-6 6-0    ,2,1
+59789,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,1st Round,3,Evans D.,Ivashka I.,Ivashka I.,28,74,6-2 2-6 3-6   ,3,0
+59790,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,2nd Round,3,Rublev A.,Munar J.,Rublev A.,6,83,4-6 6-2 6-2   ,3,0
+59791,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,2nd Round,3,Gakhov I.,Djokovic N.,Djokovic N.,198,1,6-7 2-6    ,2,1
+59792,Monte Carlo Masters,2023-04-11,Masters 1000,Outdoor,Clay,2nd Round,3,Hurkacz H.,Draper J.,Hurkacz H.,13,56,6-3 6-7 7-5   ,3,1
+59793,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Zverev A.,Zverev A.,29,16,4-6 4-6    ,2,0
+59794,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Jarry N.,Popyrin A.,Jarry N.,58,94,3-6 7-5 6-4   ,3,0
+59795,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Van De Zandschulp B.,Ruud C.,Ruud C.,31,4,5-7 6-7    ,2,1
+59796,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Struff J.L.,De Minaur A.,Struff J.L.,100,19,6-3 6-2    ,2,0
+59797,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Nardi L.,Musetti L.,Musetti L.,159,21,0-6 0-6    ,2,0
+59798,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Lehecka J.,Dimitrov G.,Lehecka J.,42,25,7-6 6-4    ,2,1
+59799,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Ivashka I.,Khachanov K.,Khachanov K.,74,12,6-7 2-6    ,2,1
+59800,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Medvedev D.,Sonego L.,Medvedev D.,5,45,6-3 6-2    ,2,0
+59801,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Wawrinka S.,Fritz T.,Fritz T.,90,10,6-7 2-6    ,2,1
+59802,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Rune H.,Thiem D.,Rune H.,9,106,6-2 6-4    ,2,0
+59803,Monte Carlo Masters,2023-04-12,Masters 1000,Outdoor,Clay,2nd Round,3,Cerundolo F.,Berrettini M.,Berrettini M.,33,22,7-5 6-7 4-6   ,3,1
+59804,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Sinner J.,Hurkacz H.,Sinner J.,8,13,3-6 7-6 6-1   ,3,1
+59805,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Ruud C.,Struff J.L.,Struff J.L.,4,100,1-6 6-7    ,2,1
+59806,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Rublev A.,Khachanov K.,Rublev A.,6,12,7-6 6-2    ,2,1
+59807,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Jarry N.,Tsitsipas S.,Tsitsipas S.,58,3,3-6 4-6    ,2,0
+59808,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Fritz T.,Lehecka J.,Fritz T.,10,42,4-6 6-4 6-1   ,3,0
+59809,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Djokovic N.,Musetti L.,Musetti L.,1,21,6-4 5-7 4-6   ,3,0
+59810,Monte Carlo Masters,2023-04-13,Masters 1000,Outdoor,Clay,3rd Round,3,Medvedev D.,Zverev A.,Medvedev D.,5,16,3-6 7-5 7-6   ,3,1
+59811,Monte Carlo Masters,2023-04-14,Masters 1000,Outdoor,Clay,Quarterfinals,3,Struff J.L.,Rublev A.,Rublev A.,100,6,1-6 6-7    ,2,1
+59812,Monte Carlo Masters,2023-04-14,Masters 1000,Outdoor,Clay,Quarterfinals,3,Fritz T.,Tsitsipas S.,Fritz T.,10,3,6-2 6-4    ,2,0
+59813,Monte Carlo Masters,2023-04-14,Masters 1000,Outdoor,Clay,Quarterfinals,3,Medvedev D.,Rune H.,Rune H.,5,9,3-6 4-6    ,2,0
+59814,Monte Carlo Masters,2023-04-14,Masters 1000,Outdoor,Clay,Quarterfinals,3,Sinner J.,Musetti L.,Sinner J.,8,21,6-2 6-2    ,2,0
+59815,Monte Carlo Masters,2023-04-15,Masters 1000,Outdoor,Clay,Semifinals,3,Fritz T.,Rublev A.,Rublev A.,10,6,7-5 1-6 3-6   ,3,0
+59816,Monte Carlo Masters,2023-04-15,Masters 1000,Outdoor,Clay,Semifinals,3,Rune H.,Sinner J.,Rune H.,9,8,1-6 7-5 7-5   ,3,0
+59817,Monte Carlo Masters,2023-04-16,Masters 1000,Outdoor,Clay,The Final,3,Rune H.,Rublev A.,Rublev A.,9,6,7-5 2-6 5-7   ,3,0
+59915,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Ivashka I.,Ramos-Vinolas A.,Ramos-Vinolas A.,69,60,6-4 6-7 2-6   ,3,1
+59916,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Gaston H.,Chardy J.,Gaston H.,106,635,6-3 6-4    ,2,0
+59917,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Nava E.,Barrere G.,Barrere G.,173,56,0-6 7-5 3-6   ,3,0
+59918,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Molcan A.,Wu Y.,Molcan A.,58,57,6-2 6-4    ,2,0
+59919,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Popyrin A.,Halys Q.,Halys Q.,75,66,6-4 4-6 4-6   ,3,0
+59920,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Bublik A.,Galan D.E.,Bublik A.,55,100,7-6 6-7 6-4   ,3,2
+59921,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Goffin D.,Carballes Baena R.,Carballes Baena R.,95,53,4-6 4-6    ,2,0
+59922,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Hanfmann Y.,Varillas J. P.,Hanfmann Y.,108,87,6-4 3-6 6-3   ,3,0
+59923,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Cressy M.,Wawrinka S.,Wawrinka S.,39,84,7-6 3-6 6-7   ,3,2
+59924,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Grenier H.,Schwartzman D.,Grenier H.,128,72,7-5 6-4    ,2,0
+59925,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Kotov P.,Otte O.,Otte O.,101,98,3-6 6-4 4-6   ,3,0
+59926,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Arnaldi M.,Paire B.,Arnaldi M.,105,161,6-1 3-6 7-6   ,3,1
+59927,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Humbert U.,Ruusuvuori E.,Ruusuvuori E.,77,41,6-7 6-7    ,2,2
+59928,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Munar J.,Kokkinakis T.,Munar J.,88,111,7-6 7-6    ,2,2
+59929,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Gojo B.,Monteiro T.,Monteiro T.,110,97,6-7 6-4 3-6   ,3,1
+59930,Mutua Madrid Open,2023-04-26,Masters 1000,Outdoor,Clay,1st Round,3,Gasquet R.,Landaluce M.,Gasquet R.,43,894,6-2 6-1    ,2,0
+59931,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Mannarino A.,Etcheverry T.,Etcheverry T.,46,59,4-6 0-6    ,2,0
+59932,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Shevchenko A.,Wolf J.J.,Shevchenko A.,96,49,6-4 6-4    ,2,0
+59933,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Jarry N.,Safiullin R.,Safiullin R.,51,112,2-6 6-3 3-6   ,3,0
+59934,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Thiem D.,Edmund K.,Thiem D.,93,498,6-4 6-1    ,2,0
+59935,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Rodionov J.,Zhang Zh.,Zhang Zh.,119,99,6-7 4-6    ,2,1
+59936,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Watanuki Y.,Moutet C.,Watanuki Y.,117,64,6-3 6-3    ,2,0
+59937,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Huesler M.A.,Garin C.,Garin C.,76,73,6-7 2-6    ,2,1
+59938,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Cachin P.,Shelbayh A.,Cachin P.,67,243,6-1 6-4    ,2,0
+59939,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Sonego L.,Struff J.L.,Struff J.L.,47,65,3-6 1-6    ,2,0
+59940,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Giron M.,Borges N.,Giron M.,61,74,6-2 7-6    ,2,1
+59941,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Fucsovics M.,Cecchinato M.,Cecchinato M.,83,85,6-7 3-6    ,2,1
+59942,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,O Connell C.,Krajinovic F.,O Connell C.,81,79,6-4 6-7 6-2   ,3,1
+59943,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Murray A.,Vavassori A.,Vavassori A.,52,164,2-6 6-7    ,2,1
+59944,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Lajovic D.,Kubler J.,Lajovic D.,40,63,6-3 6-3    ,2,0
+59945,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Mcdonald M.,Zapata Miralles B.,Zapata Miralles B.,54,42,6-3 3-6 6-7   ,3,1
+59946,Mutua Madrid Open,2023-04-27,Masters 1000,Outdoor,Clay,1st Round,3,Karatsev A.,Djere L.,Karatsev A.,121,70,7-6 7-5    ,2,1
+59947,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Ruud C.,Arnaldi M.,Arnaldi M.,4,105,3-6 4-6    ,2,0
+59948,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Altmaier D.,Otte O.,Altmaier D.,92,98,6-4 7-5    ,2,0
+59949,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Molcan A.,Nishioka Y.,Nishioka Y.,58,34,7-5 4-6 4-6   ,3,0
+59950,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Hanfmann Y.,Musetti L.,Hanfmann Y.,108,18,6-4 7-6    ,2,1
+59951,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Wawrinka S.,Rublev A.,Rublev A.,84,6,5-7 4-6    ,2,0
+59952,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Dimitrov G.,Barrere G.,Dimitrov G.,32,56,7-6 7-6    ,2,2
+59953,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Monteiro T.,Khachanov K.,Khachanov K.,97,12,3-6 6-3 3-6   ,3,0
+59954,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Alcaraz C.,Ruusuvuori E.,Alcaraz C.,2,41,2-6 6-4 6-2   ,3,0
+59955,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Halys Q.,Bautista Agut R.,Bautista Agut R.,66,25,6-4 6-7 3-6   ,3,1
+59956,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Coric B.,Gaston H.,Coric B.,20,106,6-3 6-3    ,2,0
+59957,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Korda S.,Grenier H.,Grenier H.,28,128,6-7 6-7    ,2,2
+59958,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Hurkacz H.,Gasquet R.,Hurkacz H.,15,43,6-7 6-4 7-5   ,3,1
+59959,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Bublik A.,Rune H.,Rune H.,55,7,1-6 6-4 6-7   ,3,1
+59960,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Ramos-Vinolas A.,Davidovich Fokina A.,35,60,6-3 6-4    ,2,0
+59961,Mutua Madrid Open,2023-04-28,Masters 1000,Outdoor,Clay,2nd Round,3,Carballes Baena R.,Zverev A.,Zverev A.,53,16,7-6 5-7 0-6   ,3,1
+59962,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Shevchenko A.,Lehecka J.,Shevchenko A.,96,37,6-1 6-1    ,2,0
+59963,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Shelton B.,Struff J.L.,Struff J.L.,38,65,6-4 6-7 5-7   ,3,1
+59964,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Medvedev D.,Vavassori A.,Medvedev D.,3,164,6-4 6-3    ,2,0
+59965,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Paul T.,Safiullin R.,Safiullin R.,17,112,3-6 6-7    ,2,1
+59966,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Karatsev A.,Van De Zandschulp B.,Karatsev A.,121,29,6-2 7-5    ,2,0
+59967,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Auger-Aliassime F.,Lajovic D.,Lajovic D.,9,40,2-6 6-3 6-7   ,3,1
+59968,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Zapata Miralles B.,Evans D.,Zapata Miralles B.,42,24,6-3 6-2    ,2,0
+59969,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Cecchinato M.,De Minaur A.,De Minaur A.,85,19,4-6 6-7    ,2,1
+59970,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Baez S.,Giron M.,Baez S.,31,61,3-6 6-3 6-4   ,3,0
+59971,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,O Connell C.,Fritz T.,Fritz T.,81,10,6-7 4-6    ,2,1
+59972,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Tiafoe F.,Etcheverry T.,Tiafoe F.,11,59,6-3 7-6    ,2,1
+59973,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Kecmanovic M.,Garin C.,Garin C.,33,73,6-7 7-6 4-6   ,3,2
+59974,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Cachin P.,Cerundolo F.,Cachin P.,67,30,6-1 7-6    ,2,1
+59975,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Watanuki Y.,Norrie C.,Norrie C.,117,13,4-6 6-7    ,2,1
+59976,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Zhang Zh.,Shapovalov D.,Zhang Zh.,99,27,6-7 6-4 7-6   ,3,2
+59977,Mutua Madrid Open,2023-04-29,Masters 1000,Outdoor,Clay,2nd Round,3,Thiem D.,Tsitsipas S.,Tsitsipas S.,93,5,6-3 1-6 6-7   ,3,1
+59978,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Khachanov K.,Bautista Agut R.,Khachanov K.,12,25,7-5 4-6 6-3   ,3,0
+59979,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Arnaldi M.,Munar J.,Munar J.,105,88,6-3 3-6 1-6   ,3,0
+59980,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Rublev A.,Nishioka Y.,Rublev A.,6,34,6-2 7-5    ,2,0
+59981,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Grenier H.,Zverev A.,Zverev A.,128,16,1-6 0-6    ,2,0
+59982,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Coric B.,Hurkacz H.,Coric B.,20,15,7-6 6-3    ,2,1
+59983,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Dimitrov G.,Alcaraz C.,Alcaraz C.,32,2,2-6 5-7    ,2,0
+59984,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Altmaier D.,Hanfmann Y.,Altmaier D.,92,108,7-6 6-3    ,2,1
+59985,Mutua Madrid Open,2023-04-30,Masters 1000,Outdoor,Clay,3rd Round,3,Rune H.,Davidovich Fokina A.,Davidovich Fokina A.,7,35,6-7 7-5 6-7   ,3,2
+59986,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Medvedev D.,Shevchenko A.,Medvedev D.,3,96,4-6 6-1 7-5   ,3,0
+59987,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Lajovic D.,Struff J.L.,Struff J.L.,40,65,7-6 3-6 3-6   ,3,1
+59988,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Karatsev A.,De Minaur A.,Karatsev A.,121,19,6-3 4-6 6-4   ,3,0
+59989,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Tiafoe F.,Cachin P.,Cachin P.,11,67,1-6 6-7    ,2,1
+59990,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Zapata Miralles B.,Safiullin R.,Zapata Miralles B.,42,112,6-3 3-6 6-3   ,3,0
+59991,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Garin C.,Fritz T.,Fritz T.,73,10,1-6 6-7    ,2,1
+59992,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Tsitsipas S.,Baez S.,Tsitsipas S.,5,31,7-5 3-6 6-3   ,3,0
+59993,Mutua Madrid Open,2023-05-01,Masters 1000,Outdoor,Clay,3rd Round,3,Norrie C.,Zhang Zh.,Zhang Zh.,13,99,6-2 6-7 6-7   ,3,2
+59994,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Altmaier D.,Munar J.,Altmaier D.,92,88,6-3 6-0    ,2,0
+59995,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Rublev A.,Khachanov K.,Khachanov K.,6,12,6-7 4-6    ,2,1
+59996,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Karatsev A.,Medvedev D.,Karatsev A.,121,3,7-6 6-4    ,2,1
+59997,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Davidovich Fokina A.,Coric B.,Coric B.,35,20,7-6 3-6 6-7   ,3,2
+59998,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Alcaraz C.,Zverev A.,Alcaraz C.,2,16,6-1 6-2    ,2,0
+59999,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Fritz T.,Zhang Zh.,Zhang Zh.,10,99,6-3 6-7 6-7   ,3,2
+60000,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Struff J.L.,Cachin P.,Struff J.L.,65,67,7-6 6-7 6-3   ,3,2
+60001,Mutua Madrid Open,2023-05-02,Masters 1000,Outdoor,Clay,4th Round,3,Zapata Miralles B.,Tsitsipas S.,Tsitsipas S.,42,5,3-6 1-6    ,2,0
+60002,Mutua Madrid Open,2023-05-03,Masters 1000,Outdoor,Clay,Quarterfinals,3,Alcaraz C.,Khachanov K.,Alcaraz C.,2,12,6-4 7-5    ,2,0
+60003,Mutua Madrid Open,2023-05-03,Masters 1000,Outdoor,Clay,Quarterfinals,3,Altmaier D.,Coric B.,Coric B.,92,20,3-6 3-6    ,2,0
+60004,Mutua Madrid Open,2023-05-04,Masters 1000,Outdoor,Clay,Quarterfinals,3,Karatsev A.,Zhang Zh.,Karatsev A.,121,99,7-6 6-4    ,2,1
+60005,Mutua Madrid Open,2023-05-04,Masters 1000,Outdoor,Clay,Quarterfinals,3,Tsitsipas S.,Struff J.L.,Struff J.L.,5,65,6-7 7-5 3-6   ,3,1
+60006,Mutua Madrid Open,2023-05-05,Masters 1000,Outdoor,Clay,Semifinals,3,Alcaraz C.,Coric B.,Alcaraz C.,2,20,6-4 6-3    ,2,0
+60007,Mutua Madrid Open,2023-05-05,Masters 1000,Outdoor,Clay,Semifinals,3,Karatsev A.,Struff J.L.,Struff J.L.,121,65,6-4 3-6 4-6   ,3,0
+60008,Mutua Madrid Open,2023-05-07,Masters 1000,Outdoor,Clay,The Final,3,Alcaraz C.,Struff J.L.,Alcaraz C.,2,65,6-4 3-6 6-3   ,3,0
+60009,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Ivashka I.,Wawrinka S.,Wawrinka S.,73,84,2-6 4-6    ,2,0
+60010,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Fucsovics M.,Krajinovic F.,Fucsovics M.,92,74,6-4 6-2    ,2,0
+60011,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Van Assche L.,Etcheverry T.,Etcheverry T.,85,61,6-7 3-6    ,2,1
+60012,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Baez S.,Varillas J.P.,Baez S.,40,97,7-5 6-3    ,2,0
+60013,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Cachin P.,Garin C.,Garin C.,68,79,4-6 6-3 6-7   ,3,1
+60014,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Wu Y.,Gasquet R.,Wu Y.,57,44,3-6 6-3 6-3   ,3,0
+60015,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Edmund K.,Muller A.,Muller A.,473,100,1-6 3-6    ,2,0
+60016,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Bublik A.,Martinez P.,Bublik A.,49,142,6-3 7-6    ,2,1
+60017,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Cerundolo J.M.,Fils A.,Fils A.,105,119,1-6 6-1 4-6   ,3,0
+60018,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Popyrin A.,O Connell C.,Popyrin A.,77,78,6-2 7-6    ,2,1
+60019,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Giron M.,Safiullin R.,Safiullin R.,60,103,4-6 3-6    ,2,0
+60020,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Fognini F.,Murray A.,Fognini F.,130,42,6-4 4-6 6-4   ,3,0
+60021,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Cobolli F.,Rinderknech A.,Rinderknech A.,183,89,4-6 3-6    ,2,0
+60022,Internazionali BNL d'Italia,2023-05-10,Masters 1000,Outdoor,Clay,1st Round,3,Barrere G.,Nakashima B.,Barrere G.,63,47,6-3 6-3    ,2,0
+60023,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Zeppieri G.,Altmaier D.,Altmaier D.,120,65,6-7 6-4 0-6   ,3,1
+60024,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Carballes Baena R.,Dellien H.,Carballes Baena R.,51,157,6-2 6-3    ,2,0
+60025,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Huesler M.A.,Kubler J.,Kubler J.,82,66,7-6 4-6 2-6   ,3,1
+60026,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Monteiro T.,Mannarino A.,Monteiro T.,98,45,6-1 6-2    ,2,0
+60027,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Nardi L.,Goffin D.,Goffin D.,151,107,6-3 4-6 2-6   ,3,0
+60028,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Ruusuvuori E.,Humbert U.,Ruusuvuori E.,43,50,6-4 3-6 7-6   ,3,1
+60029,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Mcdonald M.,Cecchinato M.,Cecchinato M.,55,83,3-6 5-7    ,2,0
+60030,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Pella G.,Cressy M.,Pella G.,484,41,6-3 6-4    ,2,0
+60031,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Passaro F.,Ramos-Vinolas A.,Ramos-Vinolas A.,126,72,6-4 1-6 4-6   ,3,0
+60032,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Sonego L.,Chardy J.,Sonego L.,48,591,6-2 6-1    ,2,0
+60033,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Lajovic D.,Borges N.,Borges N.,46,88,4-6 1-6    ,2,0
+60034,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Marozsan F.,Moutet C.,Marozsan F.,135,67,6-0 6-7 6-2   ,3,1
+60035,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Jarry N.,Hanfmann Y.,Hanfmann Y.,56,101,4-6 4-6    ,2,0
+60036,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Wolf J.J.,Grenier H.,Wolf J.J.,54,124,7-5 7-5    ,2,0
+60037,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Napolitano S.,Molcan A.,Molcan A.,555,59,4-6 6-3 6-7   ,3,1
+60038,Internazionali BNL d'Italia,2023-05-11,Masters 1000,Outdoor,Clay,1st Round,3,Arnaldi M.,Schwartzman D.,Arnaldi M.,99,91,6-1 4-6 6-3   ,3,0
+60039,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Auger-Aliassime F.,Popyrin A.,Popyrin A.,10,77,4-6 6-4 5-7   ,3,0
+60040,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Norrie C.,Muller A.,Norrie C.,13,100,6-2 6-3    ,2,0
+60041,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Wu Y.,Cerundolo F.,Cerundolo F.,57,31,6-4 2-6 3-6   ,3,0
+60042,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Sinner J.,Kokkinakis T.,Sinner J.,8,104,6-1 6-4    ,2,0
+60043,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,De Minaur A.,Fucsovics M.,Fucsovics M.,18,92,3-6 4-6    ,2,0
+60044,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Shevchenko A.,Baez S.,Shevchenko A.,93,40,6-3 6-4    ,2,0
+60045,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Wawrinka S.,Dimitrov G.,Dimitrov G.,84,33,4-6 6-7    ,2,1
+60046,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Safiullin R.,Korda S.,Safiullin R.,103,29,6-2 7-6    ,2,1
+60047,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Van De Zandschulp B.,Djere L.,Djere L.,30,62,2-6 4-6    ,2,0
+60048,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Barrere G.,Khachanov K.,Barrere G.,63,11,4-6 6-4 7-6   ,3,1
+60049,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Kecmanovic M.,Fognini F.,Fognini F.,37,130,3-6 6-7    ,2,1
+60050,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Garin C.,Paul T.,Garin C.,79,17,4-6 6-3 6-4   ,3,0
+60051,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Shelton B.,Bublik A.,Bublik A.,35,49,4-6 6-1 2-6   ,3,0
+60052,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Djokovic N.,Etcheverry T.,Djokovic N.,1,61,7-6 6-2    ,2,1
+60053,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Fils A.,Rune H.,Rune H.,119,7,3-6 3-6    ,2,0
+60054,Internazionali BNL d'Italia,2023-05-12,Masters 1000,Outdoor,Clay,2nd Round,3,Ruud C.,Rinderknech A.,Ruud C.,4,89,6-4 6-0    ,2,0
+60055,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Molcan A.,Rublev A.,Rublev A.,59,6,3-6 4-6    ,2,0
+60056,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Coric B.,Monteiro T.,Coric B.,16,98,4-6 7-6 7-6   ,3,2
+60057,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Evans D.,Carballes Baena R.,Carballes Baena R.,24,51,6-7 7-5 4-6   ,3,1
+60058,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Zapata Miralles B.,Kubler J.,Zapata Miralles B.,38,66,6-4 6-1    ,2,0
+60059,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Ramos-Vinolas A.,Alcaraz C.,Alcaraz C.,72,2,4-6 1-6    ,2,0
+60060,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Wolf J.J.,Hurkacz H.,Wolf J.J.,54,15,6-3 6-4    ,2,0
+60061,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Nishioka Y.,Sonego L.,Sonego L.,32,48,5-7 3-6    ,2,0
+60062,Internazionali BNL d'Italia,2023-05-13,Masters 1000,Outdoor,Clay,2nd Round,3,Davidovich Fokina A.,Pella G.,Davidovich Fokina A.,34,484,6-0 7-6    ,2,1
+60063,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Bautista Agut R.,Cecchinato M.,Cecchinato M.,25,83,2-6 2-6    ,2,0
+60064,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Medvedev D.,Ruusuvuori E.,Medvedev D.,3,43,6-4 6-2    ,2,0
+60065,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Fritz T.,Hanfmann Y.,Hanfmann Y.,9,101,4-6 1-6    ,2,0
+60066,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Tsitsipas S.,Borges N.,Tsitsipas S.,5,88,6-3 6-3    ,2,0
+60067,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Arnaldi M.,Musetti L.,Musetti L.,99,19,4-6 4-6    ,2,0
+60068,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Marozsan F.,Lehecka J.,Marozsan F.,135,39,4-6 6-1 7-6   ,3,1
+60069,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Altmaier D.,Tiafoe F.,Tiafoe F.,65,12,6-3 5-7 3-6   ,3,0
+60070,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,2nd Round,3,Zverev A.,Goffin D.,Zverev A.,22,107,5-7 6-3 6-4   ,3,0
+60071,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Safiullin R.,Popyrin A.,Popyrin A.,103,77,5-7 5-7    ,2,0
+60072,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Cerundolo F.,Barrere G.,Cerundolo F.,31,63,6-7 6-2 6-2   ,3,1
+60073,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Fognini F.,Rune H.,Rune H.,130,7,4-6 2-6    ,2,0
+60074,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Djokovic N.,Dimitrov G.,Djokovic N.,1,33,6-3 4-6 6-1   ,3,0
+60075,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Bublik A.,Ruud C.,Ruud C.,49,4,1-6 6-4 6-7   ,3,1
+60076,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Norrie C.,Fucsovics M.,Norrie C.,13,92,6-2 7-6    ,2,1
+60077,Internazionali BNL d'Italia,2023-05-14,Masters 1000,Outdoor,Clay,3rd Round,3,Shevchenko A.,Sinner J.,Sinner J.,93,8,3-6 7-6 2-6   ,3,1
+60078,Internazionali BNL d'Italia,2023-05-15,Masters 1000,Outdoor,Clay,3rd Round,3,Coric B.,Carballes Baena R.,Coric B.,16,51,7-6 6-1    ,2,1
+60079,Internazionali BNL d'Italia,2023-05-15,Masters 1000,Outdoor,Clay,3rd Round,3,Cecchinato M.,Hanfmann Y.,Hanfmann Y.,83,101,4-6 6-4 3-6   ,3,0
+60080,Internazionali BNL d'Italia,2023-05-15,Masters 1000,Outdoor,Clay,3rd Round,3,Marozsan F.,Alcaraz C.,Marozsan F.,135,2,6-3 7-6    ,2,1
+60081,Internazionali BNL d'Italia,2023-05-15,Masters 1000,Outdoor,Clay,3rd Round,3,Davidovich Fokina A.,Rublev A.,Rublev A.,34,6,6-7 3-6    ,2,1
+60082,Internazionali BNL d'Italia,2023-05-15,Masters 1000,Outdoor,Clay,3rd Round,3,Medvedev D.,Zapata Miralles B.,Medvedev D.,3,38,3-6 6-1 6-3   ,3,0
+60083,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,3rd Round,3,Wolf J.J.,Zverev A.,Zverev A.,54,22,4-6 5-7    ,2,0
+60084,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,3rd Round,3,Tsitsipas S.,Sonego L.,Tsitsipas S.,5,48,6-3 7-6    ,2,1
+60085,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,3rd Round,3,Tiafoe F.,Musetti L.,Musetti L.,12,19,7-5 4-6 3-6   ,3,0
+60086,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Rune H.,Popyrin A.,Rune H.,7,77,6-4 5-7 6-4   ,3,0
+60087,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Norrie C.,Djokovic N.,Djokovic N.,13,1,3-6 4-6    ,2,0
+60088,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Ruud C.,Djere L.,Ruud C.,4,62,6-1 6-3    ,2,0
+60089,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Sinner J.,Cerundolo F.,Cerundolo F.,8,31,7-6 2-6 2-6   ,3,1
+60090,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Hanfmann Y.,Rublev A.,Hanfmann Y.,101,6,7-6 4-6 6-3   ,3,1
+60091,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Zverev A.,Medvedev D.,Medvedev D.,22,3,2-6 6-7    ,2,1
+60092,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Coric B.,Marozsan F.,Coric B.,16,135,3-6 6-4 6-3   ,3,0
+60093,Internazionali BNL d'Italia,2023-05-16,Masters 1000,Outdoor,Clay,4th Round,3,Musetti L.,Tsitsipas S.,Tsitsipas S.,19,5,5-7 5-7    ,2,0
+60094,Internazionali BNL d'Italia,2023-05-17,Masters 1000,Outdoor,Clay,Quarterfinals,3,Rune H.,Djokovic N.,Rune H.,7,1,6-2 4-6 6-2   ,3,0
+60095,Internazionali BNL d'Italia,2023-05-17,Masters 1000,Outdoor,Clay,Quarterfinals,3,Cerundolo F.,Ruud C.,Ruud C.,31,4,6-7 4-6    ,2,1
+60096,Internazionali BNL d'Italia,2023-05-18,Masters 1000,Outdoor,Clay,Quarterfinals,3,Medvedev D.,Hanfmann Y.,Medvedev D.,3,101,6-2 6-2    ,2,0
+60097,Internazionali BNL d'Italia,2023-05-18,Masters 1000,Outdoor,Clay,Quarterfinals,3,Coric B.,Tsitsipas S.,Tsitsipas S.,16,5,3-6 4-6    ,2,0
+60098,Internazionali BNL d'Italia,2023-05-20,Masters 1000,Outdoor,Clay,Semifinals,3,Rune H.,Ruud C.,Rune H.,7,4,6-7 6-4 6-2   ,3,1
+60099,Internazionali BNL d'Italia,2023-05-20,Masters 1000,Outdoor,Clay,Semifinals,3,Tsitsipas S.,Medvedev D.,Medvedev D.,5,3,5-7 5-7    ,2,0
+60100,Internazionali BNL d'Italia,2023-05-21,Masters 1000,Outdoor,Clay,The Final,3,Medvedev D.,Rune H.,Medvedev D.,3,7,7-5 7-5    ,2,0
+60149,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Lestienne C.,Khachanov K.,Khachanov K.,70,11,6-3 6-1 2-6 1-6 3-6 ,5,0
+60150,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Hurkacz H.,Goffin D.,Hurkacz H.,14,111,6-3 5-7 6-4 2-6 6-4 ,5,0
+60151,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Cressy M.,Ofner S.,Ofner S.,44,118,4-6 6-7 2-6   ,3,1
+60152,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Griekspoor T.,Martinez P.,Griekspoor T.,39,135,6-4 2-6 0-6 7-5 6-3 ,5,0
+60153,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Kypson P.,Albot R.,Albot R.,329,113,3-6 2-6 6-4 1-6  ,4,0
+60154,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Kokkinakis T.,Evans D.,Kokkinakis T.,108,25,6-4 6-4 6-4   ,3,0
+60155,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Grenier H.,Fucsovics M.,Fucsovics M.,122,83,3-6 7-5 1-6 3-6  ,4,0
+60156,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Tsitsipas S.,Vesely J.,Tsitsipas S.,5,455,7-5 6-3 4-6 7-6  ,4,1
+60157,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Diaz Acosta F.,Kubler J.,Kubler J.,137,69,6-1 3-6 4-6 6-3 1-6 ,5,0
+60158,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Borges N.,Isner J.,Borges N.,80,90,6-4 5-7 7-6 4-6 7-6 ,5,2
+60159,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Mcdonald M.,Korda S.,Korda S.,59,30,4-6 5-7 4-6   ,3,0
+60160,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Arnaldi M.,Galan D.E.,Arnaldi M.,106,91,2-6 6-3 6-0 6-2  ,4,0
+60161,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Nava E.,Carballes Baena R.,Carballes Baena R.,242,57,6-7 3-6 2-6   ,3,1
+60162,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Musetti L.,Ymer M.,Musetti L.,18,56,7-5 6-2 6-4   ,3,0
+60163,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Djere L.,Rublev A.,Rublev A.,60,7,1-6 6-3 3-6 4-6  ,4,0
+60164,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Moutet C.,Cazaux A.,Moutet C.,61,190,6-1 6-3 4-6 6-4  ,4,0
+60165,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Shelton B.,Sonego L.,Sonego L.,36,48,4-6 6-3 3-6 3-6  ,4,0
+60166,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Shevchenko A.,Otte O.,Shevchenko A.,87,120,7-5 4-6 6-1 7-6  ,4,1
+60167,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Mannarino A.,Humbert U.,Humbert U.,47,40,3-6 3-6 1-6   ,3,0
+60168,French Open,2023-05-28,Grand Slam,Outdoor,Clay,1st Round,5,Pouille L.,Rodionov J.,Pouille L.,675,134,6-2 6-4 6-3   ,3,0
+60169,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Nakashima B.,Shapovalov D.,Shapovalov D.,45,32,4-6 5-7 6-4 6-3 3-6 ,5,0
+60170,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Norrie C.,Paire B.,Norrie C.,13,149,7-5 4-6 3-6 6-1 6-4 ,5,0
+60171,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Zapata Miralles B.,Schwartzman D.,Schwartzman D.,38,95,6-1 7-6 2-6 0-6 4-6 ,5,1
+60172,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Varillas J.P.,Shang J.,Varillas J.P.,94,200,4-6 2-6 6-2 6-3 6-1 ,5,0
+60173,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Ivashka I.,De Minaur A.,De Minaur A.,73,19,1-6 7-5 1-6 3-6  ,4,0
+60174,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Karatsev A.,Popyrin A.,Karatsev A.,62,85,6-3 6-7 6-1 6-2  ,4,1
+60175,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Wu Y.,Bautista Agut R.,Bautista Agut R.,54,24,6-7 1-6 1-6   ,3,1
+60176,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Fognini F.,Auger-Aliassime F.,Fognini F.,130,10,6-4 6-4 6-3   ,3,0
+60177,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Ramos-Vinolas A.,Wawrinka S.,Wawrinka S.,67,89,6-7 4-6 7-6 6-1 4-6 ,5,2
+60178,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Daniel T.,O Connell C.,Daniel T.,112,77,6-0 6-2 6-4   ,3,0
+60179,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Kovacevic A.,Djokovic N.,Djokovic N.,114,3,3-6 2-6 6-7   ,3,1
+60180,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Tirante T.A.,Van De Zandschulp B.,Tirante T.A.,153,31,6-2 4-6 6-3 6-4  ,4,0
+60181,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Coria F.,Coric B.,Coric B.,96,16,6-7 7-6 3-6 3-6  ,4,2
+60182,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Cachin P.,Thiem D.,Cachin P.,64,92,6-3 6-2 6-7 4-6 6-2 ,5,1
+60183,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Medjedovic H.,Giron M.,Giron M.,168,75,0-6 2-6 6-1 0-6  ,4,0
+60184,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Lehecka J.,Struff J.L.,Lehecka J.,41,28,7-5 1-6 6-3 3-6 6-1 ,5,0
+60185,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Fils A.,Davidovich Fokina A.,Davidovich Fokina A.,63,34,1-6 6-4 3-6 3-6  ,4,0
+60186,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Alcaraz C.,Cobolli F.,Alcaraz C.,1,159,6-0 6-2 7-5   ,3,0
+60187,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Huesler M.A.,Altmaier D.,Altmaier D.,84,79,3-6 4-6 4-6   ,3,0
+60188,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Tiafoe F.,Krajinovic F.,Tiafoe F.,12,93,6-3 6-4 6-2   ,3,0
+60189,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Cecchinato M.,Van Assche L.,Van Assche L.,72,82,1-6 1-6 3-6   ,3,0
+60190,French Open,2023-05-29,Grand Slam,Outdoor,Clay,1st Round,5,Sinner J.,Muller A.,Sinner J.,9,101,6-1 6-4 6-1   ,3,0
+60191,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Stricker D.,Paul T.,Paul T.,116,17,3-6 2-6 4-6   ,3,0
+60192,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Jarry N.,Dellien H.,Jarry N.,35,160,6-4 6-4 6-2   ,3,0
+60193,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Ymer E.,Ruud C.,Ruud C.,155,4,4-6 3-6 2-6   ,3,0
+60194,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Nishioka Y.,Wolf J.J.,Nishioka Y.,33,50,1-6 3-6 6-4 6-3 6-3 ,5,0
+60195,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Mpetshi G.,Olivieri G.,Olivieri G.,237,231,6-7 6-4 6-4 5-7 1-6 ,5,1
+60196,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Vavassori A.,Kecmanovic M.,Vavassori A.,148,37,5-7 2-6 7-6 7-6 7-6 ,5,3
+60197,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Thompson J.,Purcell M.,Purcell M.,76,68,5-7 6-1 4-6 4-6  ,4,0
+60198,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Molcan A.,Gaston H.,Molcan A.,86,109,6-1 7-6 6-4   ,3,1
+60199,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Harris L.,Zverev A.,Zverev A.,294,27,6-7 6-7 1-6   ,3,2
+60200,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Zeppieri G.,Bublik A.,Zeppieri G.,129,51,6-0 4-6 4-6 6-3 7-5 ,5,0
+60201,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Medvedev D.,Seyboth Wild T.,Seyboth Wild T.,2,172,6-7 7-6 6-2 3-6 4-6 ,5,2
+60202,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Ruusuvuori E.,Barrere G.,Ruusuvuori E.,46,58,6-2 6-7 5-7 6-1 6-4 ,5,1
+60203,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Munar J.,Cerundolo F.,Cerundolo F.,81,23,1-6 6-2 6-7 1-6  ,4,1
+60204,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Rune H.,Eubanks C.,Rune H.,6,74,6-4 3-6 7-6 6-2  ,4,1
+60205,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Halys Q.,Pella G.,Pella G.,88,423,4-6 7-6 6-2 6-7 6-7 ,5,3
+60206,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Rinderknech A.,Gasquet R.,Rinderknech A.,78,52,6-4 2-6 6-2 7-6  ,4,1
+60207,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Mmoh M.,Fritz T.,Fritz T.,123,8,2-6 1-6 1-6   ,3,0
+60208,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Dimitrov G.,Skatov T.,Dimitrov G.,29,147,6-0 6-3 6-2   ,3,0
+60209,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Monteiro T.,Hanfmann Y.,Hanfmann Y.,98,65,3-6 5-7 7-6 7-6 4-6 ,5,2
+60210,French Open,2023-05-30,Grand Slam,Outdoor,Clay,1st Round,5,Monfils G.,Baez S.,Monfils G.,394,42,3-6 6-3 7-5 1-6 7-5 ,5,0
+60211,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Kubler J.,Fognini F.,Fognini F.,69,130,4-6 6-7 2-6   ,3,1
+60212,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Ofner S.,Korda S.,Ofner S.,118,30,6-3 7-6 6-4   ,3,1
+60213,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Carballes Baena R.,Tsitsipas S.,Tsitsipas S.,57,5,3-6 6-7 2-6   ,3,1
+60214,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Sonego L.,Humbert U.,Sonego L.,48,40,6-4 6-3 7-6   ,3,1
+60215,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Wawrinka S.,Kokkinakis T.,Kokkinakis T.,89,108,6-3 5-7 3-6 7-6 3-6 ,5,1
+60216,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Schwartzman D.,Borges N.,Schwartzman D.,95,80,7-6 6-4 6-3   ,3,1
+60217,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Arnaldi M.,Shapovalov D.,Shapovalov D.,106,32,2-6 6-3 3-6 3-6  ,4,0
+60218,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Varillas J.P.,Bautista Agut R.,Varillas J.P.,94,24,1-6 4-6 6-3 6-1 6-1 ,5,0
+60219,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Daniel T.,Alcaraz C.,Alcaraz C.,112,1,1-6 6-3 1-6 2-6  ,4,0
+60220,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Khachanov K.,Albot R.,Khachanov K.,11,113,6-3 6-4 6-2   ,3,0
+60221,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Griekspoor T.,Hurkacz H.,Hurkacz H.,39,14,3-6 7-5 7-6 6-7 4-6 ,5,2
+60222,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Davidovich Fokina A.,Van Assche L.,Davidovich Fokina A.,34,82,6-4 6-3 7-6   ,3,1
+60223,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Pouille L.,Norrie C.,Norrie C.,675,13,1-6 3-6 3-6   ,3,0
+60224,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Rublev A.,Moutet C.,Rublev A.,7,61,6-4 6-2 3-6 6-3  ,4,0
+60225,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Shevchenko A.,Musetti L.,Musetti L.,87,18,1-6 1-6 2-6   ,3,0
+60226,French Open,2023-05-31,Grand Slam,Outdoor,Clay,2nd Round,5,Djokovic N.,Fucsovics M.,Djokovic N.,3,83,7-6 6-0 6-3   ,3,1
+60227,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Cachin P.,Coric B.,Coric B.,64,16,3-6 6-4 6-4 3-6 4-6 ,5,0
+60228,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Etcheverry T.,De Minaur A.,Etcheverry T.,49,19,6-3 7-6 6-3   ,3,1
+60229,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Zeppieri G.,Ruud C.,Ruud C.,129,4,3-6 2-6 6-4 5-7  ,4,0
+60230,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Altmaier D.,Sinner J.,Altmaier D.,79,9,6-7 7-6 1-6 7-6 7-5 ,5,3
+60231,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Purcell M.,Nishioka Y.,Nishioka Y.,68,33,6-4 2-6 5-7 4-6  ,4,0
+60232,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Dimitrov G.,Ruusuvuori E.,Dimitrov G.,29,46,7-6 6-3 6-4   ,3,1
+60233,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Pella G.,Seyboth Wild T.,Seyboth Wild T.,423,172,3-6 6-3 4-6 3-6  ,4,0
+60234,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Zhang Zh.,Tirante T.A.,Zhang Zh.,71,153,7-6 6-3 6-4   ,3,1
+60235,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Karatsev A.,Tiafoe F.,Tiafoe F.,62,12,6-3 3-6 5-7 2-6  ,4,0
+60236,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Olivieri G.,Vavassori A.,Olivieri G.,231,148,7-6 3-6 6-4 7-6  ,4,2
+60237,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Paul T.,Jarry N.,Jarry N.,17,35,6-3 1-6 4-6 5-7  ,4,0
+60238,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Giron M.,Lehecka J.,Giron M.,75,41,6-2 6-3 6-2   ,3,0
+60239,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Hanfmann Y.,Cerundolo F.,Cerundolo F.,65,23,3-6 3-6 4-6   ,3,0
+60240,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Fritz T.,Rinderknech A.,Fritz T.,8,78,2-6 6-4 6-3 6-4  ,4,0
+60241,French Open,2023-06-01,Grand Slam,Outdoor,Clay,2nd Round,5,Molcan A.,Zverev A.,Zverev A.,86,27,4-6 2-6 1-6   ,3,0
+60242,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Khachanov K.,Kokkinakis T.,Khachanov K.,11,108,6-4 6-1 3-6 7-6  ,4,1
+60243,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Rublev A.,Sonego L.,Sonego L.,7,48,7-5 6-0 3-6 6-7 3-6 ,5,1
+60244,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Ofner S.,Fognini F.,Ofner S.,118,130,5-7 6-3 7-5 1-6 6-4 ,5,0
+60245,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Davidovich Fokina A.,Djokovic N.,Djokovic N.,34,3,6-7 6-7 2-6   ,3,2
+60246,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Musetti L.,Norrie C.,Musetti L.,18,13,6-1 6-2 6-4   ,3,0
+60247,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Schwartzman D.,Tsitsipas S.,Tsitsipas S.,95,5,2-6 2-6 3-6   ,3,0
+60248,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Varillas J.P.,Hurkacz H.,Varillas J.P.,94,14,3-6 6-3 7-6 4-6 6-2 ,5,1
+60249,French Open,2023-06-02,Grand Slam,Outdoor,Clay,3rd Round,5,Shapovalov D.,Alcaraz C.,Alcaraz C.,32,1,1-6 4-6 2-6   ,3,0
+60250,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Ruud C.,Zhang Zh.,Ruud C.,4,71,4-6 6-4 6-1 6-4  ,4,0
+60251,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Seyboth Wild T.,Nishioka Y.,Nishioka Y.,172,33,6-3 6-7 6-2 4-6 0-6 ,5,1
+60252,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Etcheverry T.,Coric B.,Etcheverry T.,49,16,6-3 7-6 6-2   ,3,1
+60253,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Giron M.,Jarry N.,Jarry N.,75,35,2-6 3-6 7-6 3-6  ,4,1
+60254,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Rune H.,Olivieri G.,Rune H.,6,231,6-4 6-1 6-3   ,3,0
+60255,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Fritz T.,Cerundolo F.,Cerundolo F.,8,23,6-3 3-6 4-6 5-7  ,4,0
+60256,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Dimitrov G.,Altmaier D.,Dimitrov G.,29,79,6-4 6-3 6-1   ,3,0
+60257,French Open,2023-06-03,Grand Slam,Outdoor,Clay,3rd Round,5,Tiafoe F.,Zverev A.,Zverev A.,12,27,6-3 6-7 1-6 6-7  ,4,2
+60258,French Open,2023-06-04,Grand Slam,Outdoor,Clay,4th Round,5,Khachanov K.,Sonego L.,Khachanov K.,11,48,1-6 6-4 7-6 6-1  ,4,1
+60259,French Open,2023-06-04,Grand Slam,Outdoor,Clay,4th Round,5,Varillas J.P.,Djokovic N.,Djokovic N.,94,3,3-6 2-6 2-6   ,3,0
+60260,French Open,2023-06-04,Grand Slam,Outdoor,Clay,4th Round,5,Alcaraz C.,Musetti L.,Alcaraz C.,1,18,6-3 6-2 6-2   ,3,0
+60261,French Open,2023-06-04,Grand Slam,Outdoor,Clay,4th Round,5,Ofner S.,Tsitsipas S.,Tsitsipas S.,118,5,5-7 3-6 0-6   ,3,0
+60262,French Open,2023-06-05,Grand Slam,Outdoor,Clay,4th Round,5,Ruud C.,Jarry N.,Ruud C.,4,35,7-6 7-5 7-5   ,3,1
+60263,French Open,2023-06-05,Grand Slam,Outdoor,Clay,4th Round,5,Cerundolo F.,Rune H.,Rune H.,23,6,6-7 6-3 4-6 6-1 6-7 ,5,2
+60264,French Open,2023-06-05,Grand Slam,Outdoor,Clay,4th Round,5,Zverev A.,Dimitrov G.,Zverev A.,27,29,6-1 6-4 6-3   ,3,0
+60265,French Open,2023-06-05,Grand Slam,Outdoor,Clay,4th Round,5,Nishioka Y.,Etcheverry T.,Etcheverry T.,33,49,6-7 0-6 1-6   ,3,1
+60266,French Open,2023-06-06,Grand Slam,Outdoor,Clay,Quarterfinals,5,Djokovic N.,Khachanov K.,Djokovic N.,3,11,4-6 7-6 6-2 6-4  ,4,1
+60267,French Open,2023-06-06,Grand Slam,Outdoor,Clay,Quarterfinals,5,Tsitsipas S.,Alcaraz C.,Alcaraz C.,5,1,2-6 1-6 6-7   ,3,1
+60268,French Open,2023-06-07,Grand Slam,Outdoor,Clay,Quarterfinals,5,Zverev A.,Etcheverry T.,Zverev A.,27,49,6-4 3-6 6-3 6-4  ,4,0
+60269,French Open,2023-06-07,Grand Slam,Outdoor,Clay,Quarterfinals,5,Rune H.,Ruud C.,Ruud C.,6,4,1-6 2-6 6-3 3-6  ,4,0
+60270,French Open,2023-06-09,Grand Slam,Outdoor,Clay,Semifinals,5,Djokovic N.,Alcaraz C.,Djokovic N.,3,1,6-3 5-7 6-1 6-1  ,4,0
+60271,French Open,2023-06-09,Grand Slam,Outdoor,Clay,Semifinals,5,Zverev A.,Ruud C.,Ruud C.,27,4,3-6 4-6 0-6   ,3,0
+60272,French Open,2023-06-11,Grand Slam,Outdoor,Clay,The Final,5,Djokovic N.,Ruud C.,Djokovic N.,3,4,7-6 6-3 7-5   ,3,1
